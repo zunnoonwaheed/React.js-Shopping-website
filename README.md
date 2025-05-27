@@ -110,20 +110,5 @@ src/
 
 ---
 
-## **🌍 Live Demo**  
-👉 **[Try TrendCart Live](https://trendcart-demo.vercel.app/)**  
-
----
-
-## **📜 License**  
-MIT License - Free for personal & commercial use  
-
----
-
-## **📩 Need Help?**  
-Contact: **dev@trendcart.com**  
-
----
-
 ### **Happy Coding!** 💻🛒  
 **Want AI recommendations or AR try-on?** Let’s build it! 🚀
